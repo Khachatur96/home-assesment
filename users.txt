@@ -1,0 +1,4 @@
+{"name":"John Doe", "age":"25", "gender":"man", "interest": "art_and_culture|geography|history|health_and_sports|fashion"}
+{"name":"Julia Anderson", "age":"26", "gender":"female", "interest": "art_and_culture|geography|history|health_and_sports|fashion"}
+{"name":"Henri", "age":"15", "gender":"man", "interest": "art_and_culture|geography|history|health_and_sports|fashion"}
+{"name":"Elice", "age":"9", "gender":"female", "interest": "art_and_culture|geography|history|health_and_sports|fashion"}
